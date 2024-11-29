@@ -1,3 +1,4 @@
+/.venv
+/stream
+/zstd_dictionary
 *.log
-zstd_dictionary
-stream/
